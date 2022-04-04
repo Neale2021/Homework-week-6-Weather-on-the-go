@@ -9,8 +9,8 @@ Resources:
 html
 css
 Java
-Bootstrap (https://cdn.jsdelivr.net/npm/bootstrap@4.5.3/dist/css/bootstrap.min.css")
-Ajax jquery (https://ajax.googleapis.com/ajax/libs/jquery/1.8.1/jquery.min.js")
+Bootstrap 
+Ajax jquery 
 
 
 Live Site:
