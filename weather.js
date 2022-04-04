@@ -19,7 +19,7 @@ var dayOneHum = $('#hum')
 var month= d.getMonth()+1
 var cityImg = $('#city-img')
 
-weather.icon
+
 
 
 
@@ -52,7 +52,7 @@ weather.icon
         var cityHumidityOut = response.list[0].main.humidity
         var cityWindOut = response.list[0].wind.speed
         var icon = response.list[0].weather[0].icon;
-        var iconadd= "https://openweathermap.org/img/wn/"+ icon + "@2x.png"
+        var iconadd= "https://openweathermap.org/img/wn/"+icon + "@2x.png"
 
 
         cityName.html("City: " + cityNameOut)
@@ -178,3 +178,5 @@ function forecast(city) {
     
 console.log(cityArray)
 $(document).on('click', pastSearch)
+reload()
+     
