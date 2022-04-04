@@ -19,7 +19,7 @@ Site in use:
 
 Search the city you want weather for:
 
-
+<img width="1792" alt="City search" src="https://user-images.githubusercontent.com/98126694/161526945-2f4bcefc-9df7-48d5-b355-b00b1de3c8d8.png">
 
 
 
