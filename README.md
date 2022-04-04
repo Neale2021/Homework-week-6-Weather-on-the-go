@@ -20,14 +20,7 @@ Site in use:
 Search the city you want weather for:
 
 
-
-
-
-
-
-
-
-
+![1](https://user-images.githubusercontent.com/98126694/161528546-92fe65e1-67e6-45d5-90ab-7952ef6309a2.png)
 
 
 
@@ -42,10 +35,7 @@ Weather results:
 
 
 
-
-
-
-
+![2](https://user-images.githubusercontent.com/98126694/161528560-ebf44b74-9f1c-4ce0-9268-c0e5a695766f.png)
 
 
 
@@ -62,7 +52,7 @@ Past searches are stored on page.
 
 
 
-
+![3](https://user-images.githubusercontent.com/98126694/161528581-e468ad4c-0a55-45eb-bf4e-8b311e0784c9.png)
 
 
 
