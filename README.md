@@ -13,7 +13,7 @@ Bootstrap
 Ajax jquery 
 
 
-Live Site:
+Live Site: https://neale2021.github.io/Homework-week-6-Weather-on-the-go/ 
 
 Site in use:
 
